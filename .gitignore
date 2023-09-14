@@ -380,4 +380,8 @@ pyrightconfig.json
 
 migrations/
 .idea/
+setup/static/
+static/assets/imagens/galeria/carina-nebula.png
+static/assets/imagens/galeria/ngc604.jpg
+static/assets/imagens/galeria/ngc1079.jpg
 
